@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="zxx" class="js">
+<head>
+    <meta charset="utf-8">
+    <meta name="author" content="Pummel Pty Ltd">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="This is the privacy policy for PUML">
+    <!-- Fav Icon  -->
+    <link rel="shortcut icon" href="images/favicon.png?ver1.0">
+    <!-- Site Title  -->
+    <title>Privacy Policy PUML</title>
+    <!-- Vendor Bundle CSS -->
+    <link rel="stylesheet" href="assets/css/vendor.bundle.css?ver=140">
+    <!-- Custom styles for this template -->
+    <link rel="stylesheet" href="assets/css/puml-style.css?ver=1.8">
+	<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+	<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+	<script>
+	window.addEventListener("load", function(){
+	window.cookieconsent.initialise({
+	  "palette": {
+	    "popup": {
+	      "background": "#021928"
+	    },
+	    "button": {
+	      "background": "#26DDB2"
+	    }
+	  },
+	  "content": {
+	    "href": "./privacy.php"
+	  }
+	})});
+	</script>
+</head>
+
+<body class="theme-puml io-puml" data-spy="scroll" data-target="#mainnav" data-offset="80">
+
+<!-- Header -->
+<header class="site-header is-sticky">
+
+
+
+    <!-- Navbar -->
+    <div class="navbar navbar-expand-lg is-transparent" id="mainnav">
+        <nav class="container">
+
+            <a class="navbar-brand animated" data-animate="fadeInDown" data-delay=".65" href="./">
+                <img class="logo logo-dark" alt="logo" src="images/logo.png" srcset="images/logo.png 2x">
+                <img class="logo logo-light" alt="logo" src="images/logo.png" srcset="images/logo.png 2x">
+            </a>
+
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggle">
+					<span class="navbar-toggler-icon">
+						<span class="ti ti-align-justify"></span>
+					</span>
+            </button>
+
+        </nav>
+    </div>
+    <!-- End Navbar -->
+
+
+    </div>
+</header>
+<!-- End Header -->
+
+<!-- Start Section -->
+<div class="section section-pad section-bg" id="how">
+    <div class="container">
+        <div class="row justify-content-left text-left">
+            <div class="col-lg-10 col-md-10">
+                <div class="section-head-s8">
+                    <h2 class="section-title-s8 animated" data-animate="fadeInUp" data-delay=".1">Privacy Policy</h2>
+                    <p>Pummel Pty Ltd ACN 610 587 089 trading as PUML.io (We) is committed to protecting and securing the privacy and confidentiality of your personal information. From 12 March 2014, we are subject to the new privacy requirements as a result of implementation of the Australian Privacy Amendment (Enhancing Privacy Protection) Act 2012 (the Privacy Act), which amends the Privacy Act 1988. In particular we must adhere to the Australian Privacy Principals in relation to collecting, using, disclosing, securing and allowing access to, your personal information.</p>
+					<p>This policy sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting PUML.io you are accepting and consenting to the practices described in this policy.</p>
+
+					<p><strong>INFORMATION WE MAY COLLECT FROM YOU</strong></p>
+					<p>We may collect and process the following data about you:</p>
+					<ul>
+					<li><strong>Information you give us.</strong> You may give us information about you by filling in forms on our site PUML.io (our site) or by corresponding with us by phone, e-mail or otherwise. This includes information you provide when you register to use our site, subscribe to our service, search for a product, place an order on our site, participate in discussion boards or other social media functions on our site, enter a competition, promotion or survey and when you report a problem with our site. The information you give us may include but is not limited to your name, address, e-mail address and phone number, financial and credit card information, personal description and photographs.</li>
+					<li><strong>Information we collect about you.</strong> With regard to each of your visits to our site we may automatically collect the following information:
+					<ul>
+					<li>technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform;</li>
+					<li>information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our site (including date and time); products you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call our customer service number.</li>
+					</ul>
+					</li>
+					<li><strong>Information we receive from other sources.</strong> We may receive information about you if you use any of the other websites we operate or the other services we provide. We are also working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies) and may receive information about you from them.</li>
+					</ul>
+					<p><strong>COOKIES</strong></p>
+					<p>Our site uses cookies to distinguish you from other users of our site. This helps us to provide you with a good experience when you browse our site and also allows us to improve our site.</p>
+					<p>A cookie is a small file of letters and numbers that we store on your browser or the hard drive of your computer if you agree. Cookies contain information that is transferred to your computer or handheld mobile device hard drive.</p>
+					<p>We use the following cookies:</p>
+					<ul>
+					<li><strong>Strictly necessary cookies.</strong> These are cookies that are required for the operation of our site. They include, for example, cookies that enable you to log into secure areas of our site, use a shopping cart or make use of e-billing services.</li>
+					<li><strong>Analytical/performance cookies.</strong> They allow us to recognise and count the number of visitors and to see how visitors move around our site when they are using them. This helps us to improve the way our site works, for example, by ensuring that users are finding what they are looking for easily.</li>
+					<li><strong>Functionality cookies.</strong> These are used to recognise you when you return to our site. This enables us to personalise our content for you, greet you by name and remember your preferences (for example, your choice of language or region).</li>
+					<li><strong>Targeting cookies.</strong> These cookies record your visit to our site, the pages you have visited and the links you have followed. We will use this information to make our website and the advertising displayed on it more relevant to your interests. We may also share this information with third parties for this purpose.</li>
+					<li>We and/or Google may use information from these cookies to optimise and place advertisements, including advertisements of third party vendors and re-marketing advertisements based on past visits to this website, on our own and third party websites. Google’s ability to use and share information collected by Google Analytics is restricted by the Google Analytics <a href="http://www.google.com.au/analytics/terms/us.html">Terms of Use</a> and <a href="http://www.google.com.au/analytics/terms/us.html">Privacy Policy</a>.</li>
+					</ul>
+					<p><strong>USES MADE OF THE INFORMATION</strong></p>
+					<p>We use information held about you in the following ways:</p>
+					<ul>
+					<li><strong>Information you give to us.</strong> We will use this information:
+					<ul>
+					<li>to carry out our obligations arising from any contracts entered into between you and us and to provide you with the information, products and services that you request from us;</li>
+					<li>to provide you with information about other goods and services we offer that are similar to those that you have already purchased or enquired about;</li>
+					<li>to provide you, or permit selected third parties to provide you, with information about goods or services we feel may interest you. If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale or negotiations of a sale to you. If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this. If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data;</li>
+					<li>to notify you about changes to our service;</li>
+					<li>to ensure that content from our site is presented in the most effective manner for you and for your computer.</li>
+					</ul>
+					</li>
+					<li><strong>Information we collect about you.</strong> We will use this information:
+					<ul>
+					<li>to administer our site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;</li>
+					<li>to improve our site to ensure that content is presented in the most effective manner for you and for your computer;</li>
+					<li>to allow you to participate in interactive features of our service, when you choose to do so;</li>
+					<li>as part of our efforts to keep our site safe and secure;</li>
+					<li>to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you;</li>
+					<li>to make suggestions and recommendations to you and other users of our site about goods or services that may interest you or them.</li>
+					</ul>
+					</li>
+					<li><strong>Information we receive from other sources.</strong> We may combine this information with information you give to us and information we collect about you. We may us this information and the combined information for the purposes set out above (depending on the types of information we receive).</li>
+					<li>If you access our websites or Service through a third-party connection or log-in, for example, through Facebook Connect, by “following,” “liking,” adding the PUML application, linking your account to the PUML Service, etc., that third party may pass certain information about your use of its service to PUML. This information could include, but is not limited to, the user ID associated with your account (for example, your Facebook UID), an access token necessary to access that service, any information that you have permitted the third party to share with us, and any information you have made public in connection with that service. If you allow us access to your friends list, your friends’ user IDs, and your connection to those friends, may be used and stored to make your experience more social, and to allow you to invite your friends to use our Service as well as provide you with updates if and when your friends join PUML. You should always review, and if necessary, adjust your privacy settings on third-party websites and services before linking or connecting them to the PUML Service. You may also unlink your third party account from the Service by adjusting your settings on the third party service.</li>
+					</ul>
+					<p><strong>DISCLOSURE OF YOUR INFORMATION</strong></p>
+					<p>We may disclose your personal information to any of our related bodies corporate, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 50 of the Corporations Act 2001. We may share your information with selected third parties including:</p>
+					<ul>
+					<li>Business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you.</li>
+					<li>Advertisers and advertising networks that require the data to select and serve relevant adverts to you and others.</li>
+					<li>Analytics and search engine providers that assist us in the improvement and optimisation of our site.</li>
+					</ul>
+					<p>We may disclose your personal information to third parties:</p>
+					<ul>
+					<li>In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.</li>
+					<li>If Pummel Pty Ltd or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.</li>
+					<li>If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Terms of Use and other agreements; or to protect the rights, property, or safety of Pummel Pty Ltd, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.</li>
+					</ul>
+					<p><strong>WHERE WE STORE YOUR PERSONAL DATA</strong></p>
+					<p>The data that we collect from you may be transferred to, and stored at, a destination outside Australia. It may also be processed by staff operating outside Australia who work for us or for one of our suppliers. The destination the data will be stored and processed will be India, Thailand, Vietnam, Switzerland, Germany, The Philippines, Canada and United Kingdom. These staff may be engaged in the fulfilment of your request, order or reservation, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.</p>
+					<p>All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.</p>
+					<p>Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.</p>
+					<p><strong>YOUR RIGHTS</strong></p>
+					<p>You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at business@PUML.io.</p>
+					<p>Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.</p>
+					<p><strong>ACCESS TO INFORMATION</strong></p>
+					<p>The Australian Privacy Principles give you the right to access information held about you. Your right of access can be exercised in accordance with those principles and the Privacy Act.</p>
+					<p>We will take all reasonable steps to correct any information you find inaccurate. Should we deny access and or refuse to correct your personal information, we will provide you with reasons that will be based on the grounds provided by the Privacy Act. All requests for access to personal information should be made e-mail to business@PUML.io.</p>
+					<p><strong>COMPLAINTS</strong></p>
+					<p>We place a high priority on effectively dealing with any complaints you might have about breach of your privacy. We prefer that complaints about breaches of the Privacy Act and the Australia Privacy Principles are made or confirmed in writing so that we can be sure about the details of the complaint. Generally, we will only accept complaints from an individual who believes an act or practice of us has interfered with their privacy and may have breached one of the Australian Privacy Principles.</p>
+					<p>A complaint should identify whether it is about:</p>
+					<ul>
+					<li>the collection, use or disclosure of personal information;</li>
+					<li>the security or storage of personal information;</li>
+					<li>the accuracy of personal information;</li>
+					<li>a refusal to give access to, change or delete personal information.</li>
+					</ul>
+					<p>Our Privacy Officer will normally deal with privacy complaints. If the Privacy Officer is involved in the conduct the complaint is about, the complaint will be dealt with by an alternative officer appointed by us who was not involved in the complaint.</p>
+					<p>We will attempt to confirm with the complainant:</p>
+					<ul>
+					<li>their understanding of the conduct relevant to the complaint;</li>
+					<li>their understanding of the Australian Privacy Principles relevant to the conduct;</li>
+					<li>what they expect as an outcome.</li>
+					</ul>
+					<p>We will inform the person making the complaint:</p>
+					<ul>
+					<li>whether we will conduct an investigation;</li>
+					<li>the name, title and contact details of the investigating officer.</li>
+					</ul>
+					<p>After we have completed our enquiries, we will contact the complainant, usually in writing, to advise the outcome and invite a response to our conclusions about the complaint. If a response is received, we will assess it and advise if we have changed our view.</p>
+					<p>If the complainant is unsatisfied with the outcome, we will advise further options including, if appropriate, review by the Privacy Commissioner within the Office of the Australian Information Commissioner.</p>
+					<p><strong>CHANGES TO OUR PRIVACY POLICY</strong></p>
+					<p>Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. Please check back frequently to see any updates or changes to our privacy policy.</p>
+					<p><strong>CONTACT</strong></p>
+					<p>Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to business@PUML.io.</p>
+                </div>
+            </div>
+        </div>
+
+                <div class="gaps size-2x"></div>
+    </div>
+</div>
+<!-- End Section -->
+
+
+
+
+
+
+<!-- Start Section -->
+<div class="section section-bg-puml overlay-shape footer-section footer-puml section-pad-sm">
+    <div class="container">
+        <div class="row text-center text-sm-left">
+            <div class="col-lg-3 col-md-4 col-sm-5">
+                <div class="widget-item">
+                    <h5 class="widget-title">Company</h5>
+                    <ul class="widget-list">
+                        <li><a href="#">Privacy</a></li>
+                        <li>Live Product - <a href="http://pummel.fit">Pummel</a></li>
+                        <li><a href="https://instagram.com/pummelapp/"><em class="fab fa-instagram"></em></a> | <a href="https://twitter.com/pummelapp/"><em class="fab fa-twitter"></em></a></li>
+                        <li>Live Product - <a href="https://zippy.com.au">Zippy Fitness</a></li>
+                    </ul>
+                </div>
+            </div><!-- .col -->
+            <div class="col-lg-2 col-md-4 col-sm-3">
+                <div class="widget-item">
+                    <h5 class="widget-title"></h5>
+                    <ul class="widget-links">
+                        <li><a href="#"></a></li>
+                    </ul>
+                </div>
+            </div><!-- .col -->
+            <div class="col-lg-2 col-md-4 col-sm-3">
+                <div class="widget-item">
+                    <h5 class="widget-title">Documentation</h5>
+                    <ul class="widget-links">
+                        <li><a href="#">Whitepaper Coming Soon</a></li>
+                    </ul>
+                </div>
+            </div><!-- .col -->
+            <div class="col-lg-4 offset-lg-1">
+                <div class="widget-item">
+                    <div class="widget-about">
+                        <a href="#" class="widget-logo"><img src="images/logo-white.png" srcset="images/logo-white2x.png" alt="PUML Logo"></a>
+                        <p>Blockchain Health &amp; Fitness Data</p>
+                        <p>Pummel Pty Ltd | ACN: 610 587 089</p>
+                        <p>hello@puml.io</p>
+                        <ul class="social-link-exp">
+                            <li><a href="https://instagram.com/puml_app/"><em class="fab fa-instagram"></em></a></li>
+                            <li><a href="https://facebook.com/pummelapp/"><em class="fab fa-facebook-f"></em></a></li>
+                            <li><a href="https://twitter.com/puml_app"><em class="fab fa-twitter"></em></a></li>
+                            <li><a href="https://medium.com/@pumlapp"><em class="fab fa-medium-m"></em></a></li>
+                            <li><a href="https://github.com/pumlapp"><em class="fab fa-github"></em></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div><!-- .col -->
+        </div><!-- .row -->
+        <div class="gaps size-1x d-none d-lg-block"></div>
+        <div class="footer-bottom">
+            <ul class="footer-list text-center">
+                <li>&copy; 2018 Copyright @ Made with LOVE in Beach City, Australia</li>
+                <li><a href="/privacy.html">Privacy policy</a></li>
+            </ul>
+        </div>
+    </div><!-- .container -->
+</div>
+<!-- End Section -->
+
+
+
+
+<!-- JavaScript (include all script here) -->
+<script src="assets/js/jquery.bundle.js?ver=140"></script>
+<script src="assets/js/script.js?ver=140"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-125571277-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-125571277-1');
+</script>
+</body>
+</html>
