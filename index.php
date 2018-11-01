@@ -2,17 +2,26 @@
 <html lang="zxx" class="js">
 <head>
     <meta charset="utf-8">
-    <meta name="author" content="Pummel Pty Ltd">
+    <meta name="author" content="PUML Pte Ltd, Singapore">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="PUML | A Health and Fitness Blockchain record for powering the sweat economy. Earn rewards, own and protect your valuable data.">
+    <meta name="description" content="PUML a blockchain Health and Fitness Platform for protecting data and rewarding members with tokens">
     <!-- Fav Icon  -->
     <link rel="shortcut icon" href="assets/images/favicon.png?ver1.0">
     <!-- Site Title  -->
-    <title>PUML - Health and Fitness Data Rewards on Blockchain</title>
+    <title>PUML a blockchain Health and Fitness Platform for protecting data and rewarding members with tokens</title>
     <!-- Vendor Bundle CSS -->
     <link rel="stylesheet" href="assets/css/vendor.bundle.css?ver=140">
     <!-- Custom styles for this template -->
     <link rel="stylesheet" href="assets/css/puml-style.css?ver=1.8">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-128487380-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-128487380-1');
+    </script>
 
 </head>
 
@@ -51,7 +60,7 @@
                 </ul>
                 <ul class="navbar-btns animated remove-animation" data-animate="fadeInDown" data-delay=".85">
 
-                    <li class="nav-item"><a class="nav-link btn btn-sm menu-link" href="#">White Paper</a></li>
+                    <li class="nav-item"><a class="nav-link btn btn-sm menu-link" href="assets/docs/whitepaper.pdf">White Paper</a></li>
                 </ul>
             </div>
         </nav>
@@ -65,10 +74,10 @@
                 <div class="row align-items-center justify-content-center justify-content-lg-between">
                     <div class="col-lg-6 col-xl-6 res-m-bttm-lg text-center text-lg-left">
                         <div class="header-txt">
-                            <h2 class="animated" data-animate="fadeInUp" data-delay="1.25">Your Health &amp; Fitness Data is valuable... </br> Earn Crypto, Own &amp; Protect it with PUML</h2>
-                            <p class="lead animated" data-animate="fadeInUp" data-delay="1.35">Earn crypto by opting in to share your data with selected 3rd parties and participate in fitness challenges. Take control of your health &amp; fitness data by securely storing it in a PUML record on Blockchain.</p>
+                            <h2 class="animated" data-animate="fadeInUp" data-delay="1.25">Fitness for Health </br> Data for Rewards</h2>
+                            <p class="lead animated" data-animate="fadeInUp" data-delay="1.35">A Blockchain project to secure your health and fitness data and earn token rewards for excercising and participating in fitness challenges. Spend your PUML tokens on our digital health and fitness marketplace.</p>
                             <ul class="btns animated" data-animate="fadeInUp" data-delay="1.45">
-                                <li><a href="#" class="btn">WHITE PAPER - Coming Soon</a></li>
+                                <li><a href="assets/docs/whitepaper.pdf" class="btn">WHITEPAPER</a></li>
                             </ul>
                             <div class="gaps size-2x"></div>
                             <h6 class="animated" data-animate="fadeInUp" data-delay="1.55">Join our community</h6>
@@ -336,6 +345,10 @@
                     <li>
                         <span class="token-details-title">Public Sale Start</span>
                         <span class="token-details-info">2019</span>
+                    </li>
+                    <li>
+                        <span class="token-details-title">Total Tokens</span>
+                        <span class="token-details-info">500,000,000</span>
                     </li>
                     <li>
                         <span class="token-details-title">Tokens for sale</span>
@@ -724,9 +737,9 @@
             </div><!-- .col -->
             <div class="col-lg-2 col-md-4 col-sm-3">
                 <div class="widget-item">
-                    <h5 class="widget-title">Documentation</h5>
+                    <h5 class="widget-title">Download Documentation</h5>
                     <ul class="widget-links">
-                        <li><a href="#">Whitepaper Coming Soon</a></li>
+                        <li><a href="assets/docs/whitepaper.pdf">Whitepaper</a></li>
                     </ul>
                 </div>
             </div><!-- .col -->
@@ -780,17 +793,5 @@
             }
         })});
 </script>
-
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-125571277-1"></script>
-<script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'UA-125571277-1');
-</script>
-
 </body>
 </html>
