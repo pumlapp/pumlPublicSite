@@ -2702,7 +2702,8 @@ label.error { display: none !important; font-size: 13px; margin-top: 5px; color:
 .theme-puml .btn.btn-sm { line-height: 38px; }
 .theme-puml .btn.btn-plane { background: #353c65; }
 .theme-puml .btn.btn-plane:hover { background: #2bdcb0; }
-.theme-puml .btn.btn-simple { background: none; color: #353c65; padding: 0 20px; }
+.theme-puml .btn.btn-simple { background: none; border: 2px solid #081F2C; color: #081F2C; font-weight: bold; }
+.theme-puml .btn.btn-simple:hover { background: #081F2C; color: #ffffff;font-weight: bold;}
 .theme-puml .btn.btn-simple .fa { color: #2bdcb0; }
 .theme-puml .btn.btn-outline { line-height: 44px; background: transparent; border: 2px solid #5C94D6; }
 .theme-puml .btn.btn-outline.btn-sm { line-height: 34px; }
