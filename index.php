@@ -11,8 +11,9 @@
     <title>PUML a blockchain Health and Fitness Platform for protecting data and rewarding members with tokens</title>
     <!-- Vendor Bundle CSS -->
     <link rel="stylesheet" href="assets/css/vendor.bundle.css?ver=140">
+
     <!-- Custom styles for this template -->
-    <link rel="stylesheet" href="assets/css/puml-style.css?ver=1.8">
+    <link rel="stylesheet" href="assets/css/puml-style.css?ver=1.911">
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-128487380-1"></script>
     <script>
@@ -59,9 +60,9 @@
 
                 </ul>
                 <ul class="navbar-btns animated remove-animation" data-animate="fadeInDown" data-delay=".85">
-
+                    <!-- // <li class="nav-item"><a class="nav-link btn btn-sm menu-link btn-simple" href="assets/docs/lightpaper.pdf">Light Paper</a></li> -->
                     <li class="nav-item"><a class="nav-link btn btn-sm menu-link" href="assets/docs/whitepaper.pdf">White Paper</a></li>
-                </ul>
+                     </ul>
             </div>
         </nav>
     </div>
@@ -74,9 +75,11 @@
                 <div class="row align-items-center justify-content-center justify-content-lg-between">
                     <div class="col-lg-6 col-xl-6 res-m-bttm-lg text-center text-lg-left">
                         <div class="header-txt">
-                            <h2 class="animated" data-animate="fadeInUp" data-delay="1.25">Fitness for Health </br> Data for Rewards</h2>
-                            <p class="lead animated" data-animate="fadeInUp" data-delay="1.35">A Blockchain project to secure your health and fitness data and earn token rewards for excercising and participating in fitness challenges. Spend your PUML tokens on our digital health and fitness marketplace.</p>
+                            <h2 class="animated" data-animate="fadeInUp" data-delay="1.25">Fitness for Health
+                                 </br><strong>Data for Rewards</strong></h2>
+                            <p class="lead animated" data-animate="fadeInUp" data-delay="1.35">PUML is a blockchain health and fitness project that <strong>securely stores and protects fitness data</strong> whilst rewarding users with our unique <strong>Health and Fitness Rewards Protocol</strong>.  Earn tokens through sponsored challenges, micro data rewards, staking events and 3rd party data offers. Spend tokens in the PUML digital health and fitness marketplace.</p>
                             <ul class="btns animated" data-animate="fadeInUp" data-delay="1.45">
+                                <!-- // <li><a href="assets/docs/lightpaper.pdf" class="btn btn-simple">LIGHTPAPER</a></li> -->
                                 <li><a href="assets/docs/whitepaper.pdf" class="btn">WHITEPAPER</a></li>
                             </ul>
                             <div class="gaps size-2x"></div>
@@ -91,11 +94,12 @@
                         </div>
                     </div><!-- .col  -->
 
+                    <div class="col-lg-6 col-xl-6 res-m-bttm-lg text-center text-lg-right">	<a class="bla-1" href="https://www.youtube.com/watch?v=APdqoaCjwpo"><img src="assets/images/puml-video.png"></a></div>
 
 
 
 
-                </div><!-- .col  -->
+</div><!-- .col  -->
             </div><!-- .row  -->
         </div><!-- .banner-content  -->
     </div><!-- .container  -->
@@ -182,7 +186,7 @@
             <div class="col-lg-6 col-md-8">
                 <div class="section-head-s8">
                     <h2 class="section-title-s8 animated" data-animate="fadeInUp" data-delay=".1">The Solution</h2>
-                    <p class="lead animated" data-animate="fadeInUp" data-delay=".2">PUML, the Collective Health &amp; Fitness Platform</p>
+                    <p class="lead animated" data-animate="fadeInUp" data-delay=".2">PUML is a global open standard for fitness records and loyality. It’s blockchain-based platform, protects and then normalises fitness data to help calculate Personal Units that are then rewarded using the Health and Fitness Rewards protocol.</p>
                 </div>
             </div>
         </div>
@@ -268,7 +272,7 @@
             <div class="col-lg-10 col-md-10">
                 <div class="section-head-s8">
                     <h2 class="section-title-s8 animated" data-animate="fadeInUp" data-delay=".1">How it works</h2>
-                    <p class="lead animated" data-animate="fadeInUp" data-delay=".2">Used by over 30K people, PUML is building the new sweat economy to incentivise healthy behaviour. Combining the best of breed technology and insight from the Pummel and Zippy businesses, PUML will build a digital Health &amp; Fitness record and rewards marketplace to incentivise members to add their data and get rewarded for a healthier lifestyle, engaging in a collective Exercise as a Medicine ecosystem.</p>
+                    <p class="lead animated" data-animate="fadeInUp" data-delay=".2">Used by over 30K people, PUML is building the new sweat economy to incentivise healthy behaviour. Combining the best of breed technology and insight from the Pummel and Zippy businesses, PUML will build a digital Health &amp; Fitness record and rewards protocol to incentivise members to add their data and get rewarded for a healthier lifestyle, engaging in a collective Exercise as a Medicine ecosystem.</p>
                 </div>
             </div>
         </div>
@@ -299,7 +303,7 @@
                         <p class="animate-up delay-7ms">Our rules engine will crunch the data and convert it into units of activity. This will keep all parties incentivised and level the playing field.</p>
                     </div>
                     <div class="slider-pane-item pane-item-4">
-                        <h5 class="animate-up delay-5ms">Challenges &amp; rewards marketplace</h5>
+                        <h5 class="animate-up delay-5ms">Rewards Protocol and Marketplace</h5>
                         <p class="animate-up delay-6ms">Members will be able to search for challenges to earn coins in return. These could be sponsored by friend/family, associated clubs, brands, employers or public health bodies. This is the key mechanism to incentivise members to add data to their record. Corporate wellness programs could engage employees to reduce sick days and increase productivity. Public health services can build smart activity challenge programs to incentivise patients to lead healthier lifestyles.</p>
                     </div>
                     <div class="slider-pane-item pane-item-5">
@@ -322,7 +326,7 @@
             <div class="col-lg-6">
                 <div class="section-head-s6">
                     <h2 class="section-title-s6">The Token</h2>
-                    <p>The PUML token is an ERC-20 Utility token with a number of key features that will be documented in our Whitepaper.</p>
+                    <p>The PUML token is an ERC-20 Utility token with a number of key features that is documented in our Whitepaper.</p>
                 </div>
                 <div class="gaps size-2x"></div>
             </div>
@@ -352,11 +356,11 @@
                     </li>
                     <li>
                         <span class="token-details-title">Tokens for sale</span>
-                        <span class="token-details-info">232,000,000</span>
+                        <span class="token-details-info">238,500,000</span>
                     </li>
                     <li>
                         <span class="token-details-title">Token Price</span>
-                        <span class="token-details-info">$0.10 USD</span>
+                        <span class="token-details-info">$0.06 USD</span>
                     </li>
                     <li>
                         <span class="token-details-title">Token Type</span>
@@ -698,9 +702,73 @@
                                 </a>
                             </h5>
                         </div>
+                        <div id="collapse-1-3" class="collapse" data-parent="#accordion-1">
+                            <div class="card-body">
+                                <p>Be part of the solution that helps move the needle on the global obesity epidemic. Using a member-owned secure health & fitness record, PUML will help reward fitness activity and healthy lifestyle choices. In doing so this will give control back to the member, who can then choose how their data can be used and commercialised.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-header">
+                            <h5>
+                                <a class="collapsed" data-toggle="collapse" data-target="#collapse-1-4">
+                                    What is a sponsor challenge?<span class="plus-minus"><em class="fas fa-plus"></em><em class="fas fa-minus"></em></span>
+                                </a>
+                            </h5>
+                        </div>
                         <div id="collapse-1-4" class="collapse" data-parent="#accordion-1">
                             <div class="card-body">
-                                <p>Our vision is to collectively improve global fitness and be part of the solution to tackle obesity and the health complications that arise from it.</p>
+                                <p>Challenges are part of the incentive mechanism to motivate members to participate in fitness activities. Essentially sponsors (businesses and organisations) will offer challenges for tokens. On successful completion members will receive the agreed amount of tokens and be able to spend those balances in the marketplace.</p>
+
+                                <p> Example:</p>
+                                <ul>
+                                    <li><strong>SPONSOR</strong> - Gym or Personal Trainer</li>
+                                    <li><strong>GOAL</strong> - To incentivise attendance and reduce attrition rates</li>
+                                    <li><strong>CHALLENGE</strong> - Attend a venue or class once a week for 8 weeks REWARD - 200 PUML tokens</li>
+                                    <li><strong>TYPE</strong> - Invite only</li>
+
+                                </ul>
+
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-header">
+                            <h5>
+                                <a class="collapsed" data-toggle="collapse" data-target="#collapse-1-5">
+                                    What is a data offer?<span class="plus-minus"><em class="fas fa-plus"></em><em class="fas fa-minus"></em></span>
+                                </a>
+                            </h5>
+                        </div>
+                        <div id="collapse-1-5" class="collapse" data-parent="#accordion-1">
+                            <div class="card-body">
+                                <p>Big data sets have become a commodity that many organisations would like to get their hands on and from a members point of view are an increasingly valuable asset.</p>
+
+                                <p> Example:</p>
+                                <ul>
+                                    <li><strong>SPONSOR</strong> - Researcher/Brand/University</li>
+                                    <li><strong>GOAL</strong> - Health and Fitness studies need data to be able to test a hypothesis and draw meaningful conclusions. The more comprehensive the better as the spread of data leads to better outcomes.</li>
+                                    <li><strong>OFFER</strong> - Provide cycling data for 2018 (minimum 10 data sets) – 350 PUML Tokens</li>
+                                    <li><strong>TYPE</strong> - Opt in only</li>
+
+                                </ul>
+
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-header">
+                            <h5>
+                                <a class="collapsed" data-toggle="collapse" data-target="#collapse-1-6">
+                                    What things can I expect to see in the marketplace?<span class="plus-minus"><em class="fas fa-plus"></em><em class="fas fa-minus"></em></span>
+                                </a>
+                            </h5>
+                        </div>
+                        <div id="collapse-1-6" class="collapse" data-parent="#accordion-1">
+                            <div class="card-body">
+                                <p>The marketplace is fundamental, as it serves as the point of exchange from tokens into real-world products and services. It will be core to the ecosystem with all actors able to interact in one place. It will also be populated by Service Providers, who will add their products and services to it for sale in return for tokens. Examples may include <strong>digital video classes, nutrition plans, event entries, activewear, supplements, veggie boxes, limited edition kit, experiences money can’t buy and even donations to charity.</strong></p>
                             </div>
                         </div>
                     </div>
@@ -773,9 +841,15 @@
 
 <!-- JavaScript (include all script here) -->
 <script src="assets/js/jquery.bundle.js?ver=140"></script>
-<script src="assets/js/script.js?ver=140"></script>
+<script src="assets/js/script.js?ver=142"></script>
+<script src="assets/js/youtube.jquery.js"></script>
+
+
 
 <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+<link rel="stylesheet" type="text/css" href="assets/css/youtubepopup.css?ver=1.4">
+
+
 <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
 <script>
     window.addEventListener("load", function(){
@@ -793,5 +867,11 @@
             }
         })});
 </script>
+<script type="text/javascript">
+    jQuery(function(){
+        jQuery("a.bla-1").YouTubePopUp();
+    });
+</script>
+
 </body>
 </html>
