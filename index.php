@@ -186,7 +186,7 @@
             <div class="col-lg-6 col-md-8">
                 <div class="section-head-s8">
                     <h2 class="section-title-s8 animated" data-animate="fadeInUp" data-delay=".1">The Solution</h2>
-                    <p class="lead animated" data-animate="fadeInUp" data-delay=".2">PUML is a global open standard for fitness records and loyality. It’s blockchain-based platform, protects and then normalises fitness data to help calculate Personal Units that are then rewarded using the Health and Fitness Rewards protocol.</p>
+                    <p class="lead animated" data-animate="fadeInUp" data-delay=".2">PUML is a global open standard for fitness records and loyalty. It’s blockchain-based platform, protects and then normalises fitness data to help calculate Personal Units that are then rewarded using the Health and Fitness Rewards protocol.</p>
                 </div>
             </div>
         </div>
