@@ -61,7 +61,7 @@
                 </ul>
                 <ul class="navbar-btns animated remove-animation" data-animate="fadeInDown" data-delay=".85">
                     <!-- // <li class="nav-item"><a class="nav-link btn btn-sm menu-link btn-simple" href="assets/docs/lightpaper.pdf">Light Paper</a></li> -->
-                    <li class="nav-item"><a class="nav-link btn btn-sm menu-link" href="assets/docs/whitepaper.pdf">White Paper</a></li>
+                    <li class="nav-item"><a class="nav-link btn btn-sm menu-link" href="https://t.me/pumlofficial">Coming in 2019</a></li>
                      </ul>
             </div>
         </nav>
@@ -80,7 +80,6 @@
                             <p class="lead animated" data-animate="fadeInUp" data-delay="1.35">PUML is a blockchain health and fitness project that <strong>securely stores and protects fitness data</strong> whilst rewarding users with our unique <strong>Health and Fitness Rewards Protocol</strong>.  Earn tokens through sponsored challenges, micro data rewards, staking events and 3rd party data offers. Spend tokens in the PUML digital health and fitness marketplace.</p>
                             <ul class="btns animated" data-animate="fadeInUp" data-delay="1.45">
                                 <!-- // <li><a href="assets/docs/lightpaper.pdf" class="btn btn-simple">LIGHTPAPER</a></li> -->
-                                <li><a href="assets/docs/whitepaper.pdf" class="btn">WHITEPAPER</a></li>
                             </ul>
                             <div class="gaps size-2x"></div>
                             <h6 class="animated" data-animate="fadeInUp" data-delay="1.55">Join our community</h6>
@@ -326,7 +325,7 @@
             <div class="col-lg-6">
                 <div class="section-head-s6">
                     <h2 class="section-title-s6">The Token</h2>
-                    <p>The PUML token is an ERC-20 Utility token with a number of key features that is documented in our Whitepaper.</p>
+                    <p>The PUML token is an ERC-20 Utility token that will be used in ver 2.0 of our platform to manage and control loyalty rewards.</p>
                 </div>
                 <div class="gaps size-2x"></div>
             </div>
@@ -339,24 +338,12 @@
                         <span class="token-details-info">PUML</span>
                     </li>
                     <li>
-                        <span class="token-details-title">Private Token Sale Start</span>
-                        <span class="token-details-info">1st November 2018</span>
-                    </li>
-                    <li>
-                        <span class="token-details-title">Pre Sale Start</span>
-                        <span class="token-details-info">To be advised</span>
-                    </li>
-                    <li>
-                        <span class="token-details-title">Public Sale Start</span>
-                        <span class="token-details-info">2019</span>
-                    </li>
-                    <li>
                         <span class="token-details-title">Total Tokens</span>
                         <span class="token-details-info">500,000,000</span>
                     </li>
                     <li>
-                        <span class="token-details-title">Tokens for sale</span>
-                        <span class="token-details-info">238,500,000</span>
+                        <span class="token-details-title">Token Type</span>
+                        <span class="token-details-info">ERC-20</span>
                     </li>
                     <li>
                         <span class="token-details-title">Token Price</span>
@@ -409,19 +396,23 @@
                 </div>
                 <div class="roadmap-item">
                     <h6>Q4 2018</h6>
-                    <p>Pre-Private Token Sale</p>
+                    <p>PUML 2.0 platform development begins</p>
                 </div>
                 <div class="roadmap-item">
-                    <h6>Q1 2019</h6>
+                    <h6>H1 2019</h6>
                     <p>PUML 2.0 Apps released</p>
                 </div>
                 <div class="roadmap-item">
-                    <h6>Q1 2019</h6>
+                    <h6>H2 2019</h6>
+                    <p>PUML Corporate Wellness programme - whitelabel</p>
+                </div>
+                <div class="roadmap-item">
+                    <h6>H1 2020</h6>
                     <p>Proof of fitness algorithim complete</p>
                 </div>
                 <div class="roadmap-item">
-                    <h6>Q2 2019</h6>
-                    <p>Token distribution</p>
+                    <h6>H2 2020</h6>
+                    <p>PUML Better Health insurance programme</p>
                 </div>
             </div>
         </div>
@@ -804,12 +795,7 @@
                 </div>
             </div><!-- .col -->
             <div class="col-lg-2 col-md-4 col-sm-3">
-                <div class="widget-item">
-                    <h5 class="widget-title">Download Documentation</h5>
-                    <ul class="widget-links">
-                        <li><a href="assets/docs/whitepaper.pdf">Whitepaper</a></li>
-                    </ul>
-                </div>
+
             </div><!-- .col -->
             <div class="col-lg-4 offset-lg-1">
                 <div class="widget-item">
