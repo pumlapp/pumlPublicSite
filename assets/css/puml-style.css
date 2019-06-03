@@ -2893,7 +2893,7 @@ label.error { display: none !important; font-size: 13px; margin-top: 5px; color:
 .icn-with-txt.four.with-border { border-color: rgba(254, 162, 82, 0.3); }
 
 .icon-box { text-align: center; padding: 0 10px; }
-.icon-box-img { margin: 0 auto 28px; width: 90px; }
+.icon-box-img { margin: 0 auto 28px; max-width: 90px; }
 .icon-box p { font-weight: 400; }
 
 .slider-dot { display: flex; justify-content: center; }
